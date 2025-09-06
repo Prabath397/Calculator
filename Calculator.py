@@ -5,7 +5,7 @@ num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
 # Get operation
-print("Choose operation: +, -, *, /")
+print("Choose operation: +, -, *, /, ^")
 operation = input("Enter operation: ")
 
 # Perform calculation
@@ -20,5 +20,7 @@ elif operation == "/":
         print("Result:", num1 / num2)
     else:
         print("Error: Cannot divide by zero")
+elif operation == "^":
+    print("Result:", num1 ** num2)   # <--- new feature
 else:
     print("Invalid operation")
