@@ -1,11 +1,12 @@
-\# Simple Calculator (Python)
+# Simple Calculator (Python)
 
 
 
-This is a beginner-friendly calculator program written in Python.  
+This is a beginner-friendly calculator program written in Python. 
 
+---
+ 
 It can perform the following operations:
-
 
 
 \- Addition (+)  
@@ -40,10 +41,7 @@ python calculator.py
 
 
 
-
-
-Example Run
-
+##Example Run
 
 
 Enter first number: 10
@@ -57,7 +55,6 @@ Result: 20.0
 Calculation complete ✅
 
 
-
 Enter first number: 5
 
 Enter second number: 3
@@ -69,16 +66,13 @@ Result: 125.0
 Calculation complete ✅
 
 
-
 Choose operation: q
 
 Exiting calculator. Goodbye!
 
 
 
-Features
-
-
+## Features
 
 Supports 6 operations (+, -, \*, /, ^, %)
 
@@ -88,10 +82,8 @@ Prevents division/modulus by zero
 
 Runs continuously until user quits
 
-Author
 
-
-
+## Author
 👨‍💻 Prabath
 
 
