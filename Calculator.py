@@ -1,4 +1,4 @@
-4# Simple Calculator Project
+# Simple Calculator Project
 
 # Get numbers from user
 num1 = float(input("Enter first number: "))
